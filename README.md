@@ -15,7 +15,7 @@
     var task = new Task(20000, "test", "提示信息","#FE9D01");
     tasks.push(task);//多时间段加入多个task
     timeline.setTasks(tasks);
-    $("[data-toggle='tooltip']").tooltip();//bootstrapt开启tooltip提示
+    $("[data-toggle='tooltip']").tooltip();//bootstrap开启tooltip提示
 </script>
 ```
 
