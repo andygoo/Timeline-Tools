@@ -2,7 +2,7 @@
 
 ### Info
 
-基于Bootstrapt的时间轴插件
+基于Bootstrap的时间轴插件
 
 ### Usage
 
